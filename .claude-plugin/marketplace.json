@@ -1,0 +1,14 @@
+{
+  "name": "phoenix-claude",
+  "description": "Phoenix for Claude.",
+  "owner": {
+    "name": "Phoenix"
+  },
+  "plugins": [
+    {
+      "name": "phoenix",
+      "source": "./",
+      "description": "Write emails and build flows in Phoenix from Claude. A person always publishes and sends."
+    }
+  ]
+}
