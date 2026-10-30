@@ -1,7 +1,7 @@
 {
   "name": "phoenix",
   "version": "1.0.0",
-  "description": "Write emails and build flows in Phoenix from Claude. A person always publishes and sends.",
+  "description": "Write emails and build flows in Phoenix from your AI agent. A person always publishes and sends.",
   "author": {
     "name": "Phoenix"
   }

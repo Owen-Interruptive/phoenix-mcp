@@ -1,6 +1,6 @@
 {
-  "name": "phoenix-claude",
-  "description": "Phoenix for Claude.",
+  "name": "phoenix-mcp",
+  "description": "Connect your AI agent to Phoenix.",
   "owner": {
     "name": "Phoenix"
   },
@@ -8,7 +8,7 @@
     {
       "name": "phoenix",
       "source": "./",
-      "description": "Write emails and build flows in Phoenix from Claude. A person always publishes and sends."
+      "description": "Write emails and build flows in Phoenix from your AI agent. A person always publishes and sends."
     }
   ]
 }
